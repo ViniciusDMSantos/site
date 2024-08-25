@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Novo site"
+date:   2024-08-24 21:39:15 -0300
+categories: site
+---
+
+Antes, este site era composto por apenas 3 linhas de texto, escrito em HTML e CSS manualmente. Agora, ele tem bem mais texto, e agora ele usa Jekyll para facilitar meu trabalho.
