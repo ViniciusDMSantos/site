@@ -1,3 +1,4 @@
+environment: production
 title: Vinicius
 email: vinicius.santos927@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
