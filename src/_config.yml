@@ -5,7 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Site criado para divulgar os meus trabalhos, tanto os produtivos quanto os improdutivos.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vinicius.qsl.br" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  FlightSimEnjoyer
+github_username:  ViniciusDMSantos
 
 # Build settings
 theme: minima
